@@ -1,4 +1,4 @@
 Olá!
 
-👶Iniciante em programação
-📚Estudando: Html, CSS e Javascript. 
+👶- Iniciante em programação
+📚- Estudando: Html, CSS e Javascript. 
